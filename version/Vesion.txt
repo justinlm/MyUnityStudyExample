@@ -1,4 +1,4 @@
 cdnv|2
-forceupdate|1
+forceupdate|0
 appurl|https://raw.githubusercontent.com/justinlm/MyUnityStudyExample/master/version/test1.apk
 
